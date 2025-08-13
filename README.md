@@ -1,4 +1,4 @@
-# Sale Order PDF Preview – Odoo 16
+
 
 **Author:** Shibili  
 **Version:** 16.0.1.0.0  
